@@ -22,7 +22,7 @@ The display might be better because of constant size of LED.
 
 ## PCB
 
-![OSH](https://github.com/nwmaker/wearable-bear/blob/master/docs/smd0201_pcb.png)
+![OSH](https://github.com/nwmaker/smd0201/blob/master/docs/smd0201_pcb.png)
 
 To support my effort, please consider a purchase on [my Tindie store](https://www.tindie.com/products/nwmaker/smd-0201-soldering-challenge/).
 
