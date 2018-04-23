@@ -1,0 +1,26 @@
+{
+  "layout":
+  {
+    "pours":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.4mm", 
+          "letter-spacing": "0.1mm", 
+          "line-height": "1.8mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text",
+          "value": "0201 0201 0201 0201 0201 0201 0201 0201\nSMD SMD SMD SMD SMD SMD SMD SMD SMD SMD\nCHALLENGE CHALLENGE CHALLENGE CHALLENGE\n0201 0201 0201 0201 0201 0201 0201 0201\nCHALLENGE CHALLENGE CHALLENGE CHALLENGE\nSMD 0201 SMD 0201 SMD 0201 SMD 0201 SMD\n0201 0201 0201 0201 0201 0201 0201 0201\nSMD 0201 SMD 0201 SMD 0201 SMD 0201 SMD\nCHALLENGE CHALLENGE CHALLENGE CHALLENGE\n0201 SMD 0201 SMD 0201 SMD 0201 SMD 0201\nSMD 0201 SMD 0201 0201 0201 0201 SMD 0201 SMD\n0201 0201 SMD SMD SMD SMD 0201 0201\nSMD 0201 SMD 0201 CHALLENGE 0201 SMD 0201 SMD"
+        }
+      ]
+    }
+  }  
+}

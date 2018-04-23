@@ -1,0 +1,26 @@
+{
+  "layout":
+  {
+    "pours":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.4mm", 
+          "letter-spacing": "0.1mm", 
+          "line-height": "1.8mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text",
+          "value": "0201 0201 0201 0201 0201 0201 020\nSMD SMD SMD SMD SMD SMD SMD SMD S\n 0201 0201 0201 0201 0201 0201 02\n SMD SMD SMD SMD SMD SMD SMD SMD \n1 0201 0201 0201 0201 0201 0201 0\nD SMD SMD SMD SMD SMD SMD SMD SMD\n01 0201 0201 0201 0201 0201 0201\nMD SMD SMD SMD SMD SMD SMD SMD\n201 0201 0201 0201 0201 0201 0\nSMD SMD SMD SMD SMD SMD SMD S\n0201 0201 0201 0201 0201 0201\n SMD SMD SMD SMD SMD SMD SMD\n 0201 0201 0201 0201 0201 0201"
+        }
+      ]
+    }
+  }  
+}

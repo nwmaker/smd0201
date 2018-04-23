@@ -15,4 +15,3 @@
 | R 68ohm | | x4, 0201 |
 
 If you want more challenge, use LED of size 0603, 0402, and 0201, then use the resistor of size 0805.
-

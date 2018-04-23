@@ -1,0 +1,26 @@
+{
+  "layout":
+  {
+    "pours":
+    {
+      "shapes":
+      [
+        {
+          "layers": ["top"],
+          "font-family": "UbuntuMono-R-webfont", 
+          "font-size": "2.4mm", 
+          "letter-spacing": "0.1mm", 
+          "line-height": "1.8mm", 
+          "location": [
+            0, 
+            0
+          ], 
+          "rotate": 0, 
+          "style": "fill", 
+          "type": "text",
+          "value": "0603SMD0603SMD0603SMD0603SMD0603S\nD0603SMD0603SMD0603SMD0603SMD0603\nMD0603SMD0603SMD0603SMD0603SMD060\nSMD0402SMD0402SMD0402SMD0402SMD04\n2SMD0402SMD0402SMD0402SMD0402SMD0\n02SMD0402SMD0402SMD0402SMD0402SMD\n402SMD0402SMD0402SMD0402SMD0402SM\n0402SMD0402SMD0402SMD0402SMD0402S\nD0201SMD0201SMD0201SMD0201SMD0201\nMD0201SMD0201SMD0201SMD0201SMD020\nSMD0201SMD0201SMD0201SMD0201SMD02\n1SMD0201SMD0201SMD0201SMD0201SMD0\n01SMD0201SMD0201SMD0201SMD0201SMD"
+        }
+      ]
+    }
+  }  
+}
