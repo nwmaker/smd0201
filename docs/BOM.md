@@ -8,8 +8,8 @@
 | TLC555QDRG4 | 595-TLC555QDRG4 | x1, Low Power Timer, SOIC-8 |
 | Red LED | | x10, red clear, 0805 |
 | C 1uF | | x3, 0805 |
-| R 1.5Kohm | | x3, 0805 |
-| R 5.6Kohm | | x1, 0805 |
+| R 1.5Kohm | | x3, 0805 (R000, R001, and R010) |
+| R 5.6Kohm | | x1, 0805 (R100)|
 | R 68ohm | | x2, 0603 |
 | R 68ohm | | x4, 0402 |
 | R 68ohm | | x4, 0201 |
