@@ -14,7 +14,7 @@ Then it evolves into an easier plan:
 
 It is easier to know two different ends of 0805 LED than the tiny ones. The display might be better because of constant size of LED.
 
-The cathode of LED provided in the package has a grees dot on the back.
+**The cathode of LED provided in the package has a grees bar on the back.**
 
 ## [documents](https://github.com/nwmaker/smd0201/blob/master/docs)
 
