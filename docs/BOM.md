@@ -6,7 +6,7 @@
 | Tactile Switch | SKQGADE010 | x2, SMD |
 | SN74HC4020D | 595-SN74HC4020D | x1, Binary counter, SOIC16 |
 | TLC555QDRG4 | 595-TLC555QDRG4 | x1, Low Power Timer, SOIC-8 |
-| Red LED | | x10, red clear, 0805 |
+| Red LED | | x10, red clear, 0805, the green mark is cathode |
 | C 1uF | | x3, 0805 |
 | R 1.5Kohm | | x3, 0805 (R000, R001, and R010) |
 | R 5.6Kohm | | x1, 0805 (R100)|
